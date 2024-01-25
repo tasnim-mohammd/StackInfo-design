@@ -35,4 +35,5 @@ Prioritize user data and the security of sensitive information.
 - Allocate a special account for each user.
 - Provide suggestions to the user.
 
-
+## Figma Design
+Check out the [Figma Design]([https://www.figma.com/e=design&t=PYIx8dI5nbJkhPeG-1](https://www.figma.com/file/zncAlqQbm3LEXjBplc0QvV/User-flow-stack-info?type=design&node-id=0%3A1&mode=design&t=PYIx8dI5nbJkhPeG-1)https://www.figma.com/file/zncAlqQbm3LEXjBplc0QvV/User-flow-stack-info?type=design&node-id=0%3A1&mode=design&t=PYIx8dI5nbJkhPeG-1) for a visual representation of the project.
