@@ -11,7 +11,7 @@ Users can efficiently search for companies based on criteria such as name, locat
 ### Filter Options
 - **Language:** Filter companies based on preferred languages. Users can choose one or more options.
 - **Technologies:** Customizable filter allowing users to select one or more specific technologies of interest.
-- **Cities:** Explore companies based on city names, choose specific cities from a pre-defined list, or search by city.
+- **Cities:** Explore companies based on city names, choose specific cities from a pre-defined list or search by city.
 
 ### Evaluation System
 Users can rate the application and provide feedback categorized as satisfactory, unsatisfactory, or excellent.
